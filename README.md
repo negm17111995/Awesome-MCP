@@ -23,6 +23,7 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 
 ## ⭐ Featured
 
